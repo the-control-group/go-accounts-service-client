@@ -7,7 +7,7 @@ import (
 
 // internal
 import (
-	"thecontrolgroup.com/events-service/common/currency"
+	"github.com/the-control-group/go-currency"
 )
 
 // TODO create custom time type for proper json decoding
